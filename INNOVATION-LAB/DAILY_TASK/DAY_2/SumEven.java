@@ -13,7 +13,7 @@ class SumEven
 		{
 			if(s%2==0)
 				esum +=   s;
- 
+
 		}
 		System.out.println("Sum of Even Numbers :"+ esum);
 	}
